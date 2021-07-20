@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Collapsible-sidebar/static/css/main.342fb2dc.chunk.css",
-    "main.js": "/Collapsible-sidebar/static/js/main.8930a1d3.chunk.js",
-    "main.js.map": "/Collapsible-sidebar/static/js/main.8930a1d3.chunk.js.map",
+    "main.js": "/Collapsible-sidebar/static/js/main.6b929c91.chunk.js",
+    "main.js.map": "/Collapsible-sidebar/static/js/main.6b929c91.chunk.js.map",
     "runtime-main.js": "/Collapsible-sidebar/static/js/runtime-main.58906436.js",
     "runtime-main.js.map": "/Collapsible-sidebar/static/js/runtime-main.58906436.js.map",
     "static/css/2.81b0985c.chunk.css": "/Collapsible-sidebar/static/css/2.81b0985c.chunk.css",
-    "static/js/2.7a4cb882.chunk.js": "/Collapsible-sidebar/static/js/2.7a4cb882.chunk.js",
-    "static/js/2.7a4cb882.chunk.js.map": "/Collapsible-sidebar/static/js/2.7a4cb882.chunk.js.map",
+    "static/js/2.373bd559.chunk.js": "/Collapsible-sidebar/static/js/2.373bd559.chunk.js",
+    "static/js/2.373bd559.chunk.js.map": "/Collapsible-sidebar/static/js/2.373bd559.chunk.js.map",
     "index.html": "/Collapsible-sidebar/index.html",
     "static/css/2.81b0985c.chunk.css.map": "/Collapsible-sidebar/static/css/2.81b0985c.chunk.css.map",
     "static/css/main.342fb2dc.chunk.css.map": "/Collapsible-sidebar/static/css/main.342fb2dc.chunk.css.map",
-    "static/js/2.7a4cb882.chunk.js.LICENSE.txt": "/Collapsible-sidebar/static/js/2.7a4cb882.chunk.js.LICENSE.txt",
+    "static/js/2.373bd559.chunk.js.LICENSE.txt": "/Collapsible-sidebar/static/js/2.373bd559.chunk.js.LICENSE.txt",
     "static/media/Admin.8f52ce1a.png": "/Collapsible-sidebar/static/media/Admin.8f52ce1a.png"
   },
   "entrypoints": [
     "static/js/runtime-main.58906436.js",
     "static/css/2.81b0985c.chunk.css",
-    "static/js/2.7a4cb882.chunk.js",
+    "static/js/2.373bd559.chunk.js",
     "static/css/main.342fb2dc.chunk.css",
-    "static/js/main.8930a1d3.chunk.js"
+    "static/js/main.6b929c91.chunk.js"
   ]
 }
